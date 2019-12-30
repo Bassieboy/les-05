@@ -1,0 +1,103 @@
+html, body{
+    margin:0;
+    padding:0;
+}
+main{
+    background:black;
+    width:800px;
+    height:800px;
+    display: block;
+    margin-left: 8px;
+}
+
+h2 {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: left;
+margin-left: 8px;
+}
+
+.lijn1 {
+    background:#050103;
+    width:800px;
+    height:8px;
+    margin-left: 64px;
+    margin-bottom: 8px;
+}
+
+.lijn2 {
+    background:#050103;
+    width:800px;
+    height:8px;
+    margin-left: 128px;
+    margin-top: 8px;
+}
+
+.block-01{
+    background:#EAEFE9;
+    width:592px;
+    height:592px;
+    float:left;
+}
+
+.block-02{
+    background:#E70503;
+    width:200px;
+    height:292px;
+    margin-left: 8px;
+    float: left;
+}
+
+.block-03{
+    background:#FDDE06;
+    width:200px;
+    height:292px;
+    margin-top: 8px;
+    margin-left: 8px;
+    float: left;
+}
+
+.block-04{
+    background: #0300AD;
+    width: 146px;
+    height: 200px;
+    margin-top: 8px;
+    float: left;
+}
+
+.block-05{
+    background: #EAEFE9;
+    width: 438px;
+    height: 200px;
+    margin-top: 8px;
+    margin-left: 8px;
+    float: left;
+}
+
+.block-06{
+    background: #EAEFE9;
+    width: 200px;
+    height: 96px;
+    margin-left: 8px;
+    margin-top: 8px;
+    float: left;
+}
+
+.block-07{
+    background: #FDDE06;
+    width: 96px;
+    height: 96px;
+    margin-left: 8px;
+    margin-top: 8px;
+    float: left;
+}
+
+.block-08{
+    background: #050103;
+    width: 96px;
+    height: 96px;
+    margin-left: 8px;
+    margin-top: 8px;
+    float: left;
+}
+
+
